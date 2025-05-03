@@ -131,6 +131,7 @@
       "minecraft:river": "2025-04-24 07:52:36 +0000",
       "minecraft:stony_shore": "2025-04-24 07:51:35 +0000",
       "minecraft:cold_ocean": "2025-04-23 22:20:19 +0000",
+      "minecraft:forest": "2025-05-03 04:21:26 +0000",
       "minecraft:deep_cold_ocean": "2025-04-23 22:46:32 +0000",
       "minecraft:deep_dark": "2025-04-24 07:52:06 +0000",
       "minecraft:meadow": "2025-05-03 03:38:05 +0000",
@@ -170,7 +171,15 @@
   },
   "twilightforest:arborist": {
     "criteria": {
-      "canopy_sapling": "2025-04-24 02:12:39 +0000"
+      "mangrove_sapling": "2025-05-03 04:20:06 +0000",
+      "mining_planks": "2025-05-03 04:21:32 +0000",
+      "canopy_planks": "2025-05-03 04:14:49 +0000",
+      "canopy_sapling": "2025-04-24 02:12:39 +0000",
+      "mining_log": "2025-05-03 04:20:47 +0000",
+      "transformation_log": "2025-05-03 04:21:06 +0000",
+      "liveroot": "2025-05-03 04:15:37 +0000",
+      "transformation_planks": "2025-05-03 04:21:29 +0000",
+      "canopy_log": "2025-05-03 04:14:26 +0000"
     },
     "done": false
   },
@@ -268,9 +277,13 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-03 04:23:56 +0000",
       "cooked_beef": "2025-05-03 03:42:55 +0000",
       "apple": "2025-05-03 03:53:44 +0000",
+      "pumpkin_pie": "2025-05-03 04:13:46 +0000",
       "bread": "2025-05-03 03:51:02 +0000",
+      "beetroot": "2025-05-03 03:58:55 +0000",
+      "mushroom_stew": "2025-05-03 03:59:11 +0000",
       "carrot": "2025-04-24 07:37:51 +0000"
     },
     "done": false
@@ -338,6 +351,24 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-05-03 03:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-03 04:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-03 04:09:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-03 04:25:03 +0000"
     },
     "done": true
   },
