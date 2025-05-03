@@ -255,6 +255,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-03 03:46:54 +0000",
+      "minecraft:husk": "2025-05-03 03:52:36 +0000",
       "minecraft:zombie": "2025-04-24 07:34:25 +0000"
     },
     "done": false
@@ -268,6 +269,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-05-03 03:42:55 +0000",
+      "apple": "2025-05-03 03:53:44 +0000",
+      "bread": "2025-05-03 03:51:02 +0000",
       "carrot": "2025-04-24 07:37:51 +0000"
     },
     "done": false
@@ -302,6 +305,24 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-03 03:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-03 03:50:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-03 03:53:54 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-05-03 03:38:10 +0000"
@@ -317,6 +338,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-05-03 03:38:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 03:53:54 +0000"
     },
     "done": true
   },
