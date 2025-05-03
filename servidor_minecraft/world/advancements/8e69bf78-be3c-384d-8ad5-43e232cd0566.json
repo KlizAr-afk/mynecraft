@@ -127,12 +127,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-03 04:31:28 +0000",
+      "minecraft:frozen_river": "2025-05-03 04:44:54 +0000",
       "minecraft:beach": "2025-04-24 07:52:32 +0000",
       "minecraft:river": "2025-04-24 07:52:36 +0000",
       "minecraft:stony_shore": "2025-04-24 07:51:35 +0000",
+      "minecraft:snowy_plains": "2025-05-03 04:44:48 +0000",
       "minecraft:cold_ocean": "2025-04-23 22:20:19 +0000",
       "minecraft:forest": "2025-05-03 04:21:26 +0000",
       "minecraft:deep_cold_ocean": "2025-04-23 22:46:32 +0000",
+      "minecraft:frozen_ocean": "2025-05-03 04:46:12 +0000",
+      "minecraft:snowy_beach": "2025-05-03 04:44:47 +0000",
       "minecraft:deep_dark": "2025-04-24 07:52:06 +0000",
       "minecraft:meadow": "2025-05-03 03:38:05 +0000",
       "minecraft:plains": "2025-04-24 02:14:22 +0000"
@@ -265,7 +270,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-03 03:46:54 +0000",
       "minecraft:husk": "2025-05-03 03:52:36 +0000",
-      "minecraft:zombie": "2025-04-24 07:34:25 +0000"
+      "minecraft:zombie": "2025-04-24 07:34:25 +0000",
+      "minecraft:drowned": "2025-05-03 04:28:59 +0000"
     },
     "done": false
   },
@@ -278,12 +284,15 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-03 04:23:56 +0000",
+      "sweet_berries": "2025-05-03 04:44:32 +0000",
       "cooked_beef": "2025-05-03 03:42:55 +0000",
       "apple": "2025-05-03 03:53:44 +0000",
       "pumpkin_pie": "2025-05-03 04:13:46 +0000",
       "bread": "2025-05-03 03:51:02 +0000",
+      "salmon": "2025-05-03 04:30:12 +0000",
       "beetroot": "2025-05-03 03:58:55 +0000",
       "mushroom_stew": "2025-05-03 03:59:11 +0000",
+      "cod": "2025-05-03 04:31:14 +0000",
       "carrot": "2025-04-24 07:37:51 +0000"
     },
     "done": false
@@ -318,6 +327,79 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 04:50:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 04:50:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 04:50:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 04:50:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 04:50:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-05-03 04:50:12 +0000",
+      "log_spam_fixer": "2025-05-03 04:50:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 04:50:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 04:50:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 04:50:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 04:50:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 04:50:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 04:50:02 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-05-03 03:50:58 +0000"
@@ -327,6 +409,30 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-03 03:50:50 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-05-03 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2025-05-03 04:34:00 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 04:48:21 +0000"
     },
     "done": true
   },
@@ -363,6 +469,24 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-05-03 04:09:17 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-05-03 04:27:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-05-03 04:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-03 04:42:23 +0000"
     },
     "done": true
   },
