@@ -133,6 +133,7 @@
       "minecraft:cold_ocean": "2025-04-23 22:20:19 +0000",
       "minecraft:deep_cold_ocean": "2025-04-23 22:46:32 +0000",
       "minecraft:deep_dark": "2025-04-24 07:52:06 +0000",
+      "minecraft:meadow": "2025-05-03 03:38:05 +0000",
       "minecraft:plains": "2025-04-24 02:14:22 +0000"
     },
     "done": false
@@ -253,6 +254,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-03 03:46:54 +0000",
       "minecraft:zombie": "2025-04-24 07:34:25 +0000"
     },
     "done": false
@@ -265,6 +267,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-05-03 03:42:55 +0000",
       "carrot": "2025-04-24 07:37:51 +0000"
     },
     "done": false
@@ -296,6 +299,30 @@
   "tombstone:adventure/easy_opening": {
     "criteria": {
       "coded_trigger": "2025-04-24 07:52:48 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-05-03 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-03 03:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-03 03:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-03 03:37:46 +0000"
     },
     "done": true
   },

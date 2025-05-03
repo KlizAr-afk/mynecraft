@@ -622,3 +622,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03May2025 03:38:41.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zZz has made the advancement [Getting an Upgrade]
 [03May2025 03:39:14.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CIzar has made the advancement [Getting an Upgrade]
 [03May2025 03:39:30.030] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16986, l='ServerLevel[world]', x=-1135.50, y=82.00, z=593.50]
+[03May2025 03:42:34.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zZz moved wrongly!
+[03May2025 03:42:40.232] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17842, l='ServerLevel[world]', x=-1128.50, y=69.00, z=566.50]
+[03May2025 03:43:53.081] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18186, l='ServerLevel[world]', x=-1146.50, y=79.00, z=602.50]
+[03May2025 03:44:49.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zZz was shot by Skeleton
+[03May2025 03:44:49.848] [Server thread/INFO] [tombstone/]: The player zZz has successfully been saved
+[03May2025 03:44:51.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set zZz's game mode to Adventure Mode]
+[03May2025 03:45:06.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set zZz's game mode to Survival Mode]
+[03May2025 03:45:39.431] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18939, l='ServerLevel[world]', x=-1173.50, y=70.00, z=525.50]
+[03May2025 03:46:10.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zZz moved wrongly!
+[03May2025 03:46:29.629] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19188, l='ServerLevel[world]', x=-1126.50, y=69.00, z=567.50]
+[03May2025 03:48:56.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CIzar was slain by Husk
+[03May2025 03:48:56.959] [Server thread/INFO] [tombstone/]: The player CIzar has successfully been saved
+[03May2025 03:49:27.028] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26621, l='ServerLevel[world]', x=-1127.50, y=69.00, z=565.50]
